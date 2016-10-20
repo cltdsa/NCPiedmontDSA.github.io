@@ -8,4 +8,4 @@ Democratic Socialists of America (DSA) is an activist organization, not a politi
 
 The NC Piedmont DSA chapter covers central North Carolina. 
 
-<i class="fa-envelope"></i> <info@dsanc.org>
+<i class="fa fa-envelope fa-lg"></i> <info@dsanc.org>
