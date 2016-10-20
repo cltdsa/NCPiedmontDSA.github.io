@@ -49,6 +49,10 @@ social:
     share_url:
     share_title:
     share_link:
+        
+  - icon:   rss
+    url:    https://ncpiedmontdsa.github.io/feed.xml
+    desc:   feed
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
