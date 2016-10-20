@@ -9,17 +9,17 @@ description: Democratic Socialists of America, NC Piedmont Chapter
 
 email: info@dsanc.org
 #blog logo
-logo: "/assets/images/DSA.jpg"
+logo: "/assets/images/DSA-NCP.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/Revolution2.jpg"
 
 name: "NC Piedmont DSA"
 author: "Eric M. Fink"
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/DSA.png"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "https://ncpiedmontdsa.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 # twitter_handle: '@dirkfabisch'
@@ -43,12 +43,12 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
-#  - icon:	github
-#    url:	https://github.com/dirkfabisch
-#    desc:	Fork me on github
-#    share_url:
-#    share_title:
-#    share_link:
+  - icon:	github
+    url:	https://github.com/NCPiedmontDSA
+    desc:	github
+    share_url:
+    share_title:
+    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
