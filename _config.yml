@@ -38,21 +38,21 @@ social:
 
   - icon:	facebook
     url:	https://facebook.com/TriangleTriadDSA
-    desc: Join us on Facebook
+    desc: Facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
   - icon:	github
     url:	https://github.com/NCPiedmontDSA
-    desc:	github
+    desc:	GitHub
     share_url:
     share_title:
     share_link:
         
   - icon:   rss
     url:    https://ncpiedmontdsa.github.io/feed.xml
-    desc:   feed
+    desc:   Feed
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
