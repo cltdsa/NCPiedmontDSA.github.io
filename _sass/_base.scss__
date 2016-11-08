@@ -113,7 +113,6 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
-    font-family: Alegreya,serif;
 
     > :last-child {
         margin-bottom: 0;
