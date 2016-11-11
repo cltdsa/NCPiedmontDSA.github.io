@@ -4,7 +4,7 @@ title:  "Post-Election Message From the DSA National Director"
 date:   2016-11-11 14:34:25
 categories: updates 
 tags: featured
-image: /assets/images/Revolution_wide.jpg
+image: /assets/images/Revolution_tall.jpg
 ---
 ###### Reposted from the [national DSA site](http://www.dsausa.org/post_election_message_from_the_dsa_national_director)
 
