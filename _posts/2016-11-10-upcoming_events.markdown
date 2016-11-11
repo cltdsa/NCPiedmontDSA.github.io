@@ -6,7 +6,7 @@ categories: events
 tags: featured
 image: /assets/images/Revolution_wide.jpg
 ---
-#Upcoming Events
+# Upcoming Events
 
 ## 2017 Annual Chapter Meeting
 
