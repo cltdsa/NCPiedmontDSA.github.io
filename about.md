@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "About DSA"
 permalink: /about/
 image: /assets/images/resistance.png
 ---
