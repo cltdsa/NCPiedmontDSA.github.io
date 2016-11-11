@@ -10,8 +10,8 @@
 
 $rs: 16px
 
-$font-serif: Alegreya, serif
-$font-sans: Lato, Open Sans, MundoSans, "Helvetica Neue", Arial, Helvetica, sans-serif
+$font-serif: 'Cormorant Garamond', serif
+$font-sans: 'Proza Libre', Helvetica, sans-serif
 
 
 @mixin respond-to($breakpoint)
@@ -33,22 +33,28 @@ body
   padding: 0
   text-rendering: optimizeLegibility
   -webkit-font-smoothing: antialiased
+  -moz-font-feature-settings: "liga=1, dlig=1"
+  -ms-font-feature-settings: "liga", "dlig"
+  -webkit-font-feature-settings: "liga", "dlig"
+  -o-font-feature-settings: "liga", "dlig"
+  font-feature-settings: "liga", "dlig"
+
 .logo-readium
   position: fixed
   left: 10px
   top: 10px
   width: $rs*3
   height: $rs*3
-  background-color: #ffffff
+  background-color: #000
   overflow: hidden
   z-index: 99
   .logo
     display: block
     position: absolute
-    top: 0px
-    left: 0px
-    width: $rs*3
-    height: $rs*3
+    top: $rs/2
+    left: $rs/2
+    width: $rs*2
+    height: $rs*2
     background-size: cover
     background-repeat: no-repeat
 
@@ -225,10 +231,6 @@ body
     text-decoration: none
     &:hover
       color: #333
-  img
-    max-width: 100%
-    height: auto
-
 .post
   .article-image
     position: absolute
@@ -617,6 +619,3 @@ pre
     border: 0
     padding-right: 0
     padding-left: 0
-
-
-
