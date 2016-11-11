@@ -29,6 +29,10 @@ baseurl: ""
 
 # social icons and sharing options
 social:
+  - icon:	envelope
+    url:	mailto:info@dsanc.org?Subject=Website%20contact
+    desc: Email
+    
   - icon:	twitter
     url:	https://twitter.com/NC_DSA
     desc: Twitter
