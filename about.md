@@ -13,5 +13,5 @@ The largest socialist organization in the United States, DSA is an activist orga
 > -- Cornel West, DSA Honorary Chair
 
 > DSA carries on a fine old American tradition— the tradition carried on by Eugene Debs, Mother Jones, Elizabeth Cady Stanton, and thousands more. I am proud to be a member.
-
---Barbara Ehrenreich, DSA Honorary Chair
+> 
+> --Barbara Ehrenreich, DSA Honorary Chair
