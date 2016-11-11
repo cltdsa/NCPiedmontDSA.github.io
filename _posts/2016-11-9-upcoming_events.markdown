@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Upcoming Events"
-date:   2016-11-10 12:00:00
+date:   2016-11-09 12:00:00
 categories: events
 tags: featured
 image: /assets/images/Revolution_wide.jpg

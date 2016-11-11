@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post-Election Message From the DSA National Director"
-date:   2016-11-11 14:34:25
+date:   2016-11-10 14:30:00
 categories: updates 
 tags: featured
 image: /assets/images/Revolution_wide.jpg
