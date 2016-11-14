@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What no? Socialism!"
+title:  "What now? Socialism!"
 date:   2016-11-14 18:00:00
 categories: elections 
 tags: featured
