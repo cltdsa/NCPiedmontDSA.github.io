@@ -3,7 +3,7 @@ layout: post
 title:  "Not My President: Durham in Defiance"
 date:   2016-11-11 18:00:00
 categories: events
-tags: featured
+tags: 
 image: /assets/images/resistance.png
 ---
 NC Piedmont DSA members will join this demonstration of solidarity and defiance against Donald Trump & the reactionary agenda he represents. 
