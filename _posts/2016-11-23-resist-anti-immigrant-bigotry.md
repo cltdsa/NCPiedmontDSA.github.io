@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Resist Anti-Immigrant Bigotry in Wake County"
-date:   2016-11-12 18:00:00
+date:   2016-11-23 11:00:00
 categories: action 
 tags: featured immigration 
 excerpt: "We must fight back against anti-immigrant bigotry. We must ensure that our friends, family, and neighbors who are immigrants are safe in our communities."
