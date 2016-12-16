@@ -5,8 +5,10 @@ date:   2016-12-16 18:10:00
 categories: action 
 tags: featured "north carolina"   
 excerpt: "In case there was any remaining doubt, the Republican majority in the NC General Assembly have now made perfectly clear their gleeful contempt for democracy. "
-image: /assets/images/IsNCinAmerica.png
+image: 
 ---
+
+![Is North Carolina in America?](/assets/images/IsNCinAmerica.png)
 
 In case there was any remaining doubt, the Republican majority in the NC General Assembly have now made perfectly clear their gleeful contempt for democracy. The measures pushed through in this latest special session are a naked power grab with the specific and unmistakable intent of nullifying last month’s election.
 
