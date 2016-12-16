@@ -4,7 +4,7 @@ title:  "A Coup in Carolina"
 date:   2016-12-16 18:10:00
 categories: action 
 tags: featured "north carolina"   
-excerpt: "In case there was any remaining doubt, the Republican majority in the NC General Assembly have now made perfectly clear their gleeful contempt for democracy. "
+excerpt: "In case there was any remaining doubt, the Republican majority in the NC General Assembly have now made perfectly clear their gleeful contempt for democracy."
 image: 
 ---
 
