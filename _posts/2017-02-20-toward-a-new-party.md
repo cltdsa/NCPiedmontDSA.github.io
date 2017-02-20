@@ -22,4 +22,6 @@ Moderated by Jedediah Purdy: Professor, [Duke University Law School](https://law
 
 The event is free and open to all, but space is limited. We are organizing child care for the event: if you would like to utilize that option, please email [info@dsanc.org](mailto:info@dsanc.org) so we can ensure we have the necessary resources.
 
+RSVP for the Facebook event here: [https://www.facebook.com/events/608249992702346/](https://www.facebook.com/events/608249992702346/)
+
 You can read Ackerman's piece here: [https://www.jacobinmag.com/2016/11/bernie-sanders-democratic-labor-party-ackerman/](https://www.jacobinmag.com/2016/11/bernie-sanders-democratic-labor-party-ackerman/).
