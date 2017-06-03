@@ -11,11 +11,11 @@ email: info@dsanc.org
 #blog logo
 logo: "/assets/images/DSA.png"
 # blog cover
-cover: "/assets/images/Revolution_wide.jpg"
+cover: "/assets/images/cltdsa_wide.png"
 
 name: "Charlotte DSA"
 author: "Charlotte DSA"
-author_image: "/assets/images/DSA-NCP.png"
+author_image: "/assets/images/cltdsa_logo.png"
 
 paginate:	5
 
