@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "NC Piedmont DSA"
+title: "Charlotte DSA"
 description: 
 
 email: info@dsanc.org
@@ -13,13 +13,13 @@ logo: "/assets/images/DSA.png"
 # blog cover
 cover: "/assets/images/Revolution_wide.jpg"
 
-name: "NC Piedmont DSA"
-author: "NC Piedmont DSA"
+name: "Charlotte DSA"
+author: "Charlotte DSA"
 author_image: "/assets/images/DSA-NCP.png"
 
 paginate:	5
 
-url: "http://www.dsanc.org" # the base hostname & protocol for your site
+url: "http://www.charlottedsa.org" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 # twitter_handle: '@dirkfabisch'
@@ -34,28 +34,28 @@ social:
     desc: Email
     
   - icon:	twitter
-    url:	https://twitter.com/NC_DSA
+    url:	https://twitter.com/cltdsa
     desc: Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
   - icon:	facebook
-    url:	https://facebook.com/TriangleTriadDSA
+    url:	https://www.facebook.com/groups/1018836328182353/
     desc: Facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/NCPiedmontDSA
+    url:	https://github.com/cltdsa
     desc:	GitHub
     share_url:
     share_title:
     share_link:
         
   - icon:   rss
-    url:    https://ncpiedmontdsa.github.io/feed.xml
+    url:    https://cltdsa.github.io/feed.xml
     desc:   Feed
 
 #  - icon:	google-plus
@@ -64,5 +64,3 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
-
-theme: jekyll-theme-slate

@@ -5,7 +5,7 @@ permalink: /about/
 image: /assets/images/resistance.png
 ---
 
-NC Piedmont DSA is the regional chapter for members of the [Democratic Socialists of America](http://www.dsausa.org/) (DSA) in and around Winston-Salem, Greensboro, Hillsborough, Carrboro, Chapel Hill, Durham, & Raleigh.
+Charlotte DSA is the regional chapter for members of the [Democratic Socialists of America](http://www.dsausa.org/) (DSA) in the [Charlotte Metro Area](https://en.wikipedia.org/wiki/Charlotte_metropolitan_area#Counties).
 
 The largest socialist organization in the United States, DSA is an activist organization, not a political party. Through the work of our members in local chapters and on a national level, DSA is at the center of the struggle for progress, justice, & democracy. We fight for an economy based on social needs & democratic values, not unchecked greed & unaccountable power; against oppression based on class, race, gender, sexuality, nationality, & other forms of injustice; for a clean environment & a livable world; against militarism at home and abroad. We pursue meaningful advances on all of these issues while building a long-term movement for social and economic change.
 
