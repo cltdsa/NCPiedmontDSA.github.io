@@ -30,7 +30,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	envelope
-    url:	mailto:info@dsanc.org?Subject=Website%20contact
+    url:	mailto:info@charlottedsa.org?Subject=Website%20contact
     desc: Email
     
   - icon:	twitter
