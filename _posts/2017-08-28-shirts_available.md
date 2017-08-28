@@ -1,14 +1,9 @@
 ---
 layout: post
-title:  "Monthly meeting reminder"
+title:  "T-Shirts now available!"
 date:   2017-08-28 13:55:00
-categories: meeting
+categories: merch
 tags: featured
 ---
 
-Our next meeting will be on September 10th, 2017 at 1 pm at Wedgewood Church Dr, Charlotte NC, 28210. (click to see more)
-
-For our pre-meeting, we will be getting together for lunch at Crispy Banh Mi at 12pm. 
-Address: 5100 South Blvd, Ste C, Charlotte NC 28217.
-
-We hope to see you there!
+We now have T-Shirts available for purchase! You can find them at https://represent.com/store/charlotte-dsa. 
