@@ -6,4 +6,4 @@ categories: merch
 tags: featured
 ---
 
-We now have T-Shirts available for purchase! You can find them at https://represent.com/store/charlotte-dsa. 
+We now have T-Shirts available for purchase! You can find them at [https://represent.com/store/charlotte-dsa](https://represent.com/store/charlotte-dsa). 
