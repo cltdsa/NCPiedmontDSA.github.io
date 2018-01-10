@@ -2,7 +2,6 @@
 layout: post
 title:  "T-Shirts now available!"
 date:   2017-08-28 13:55:00
-categories: merch
 tags: featured
 ---
 

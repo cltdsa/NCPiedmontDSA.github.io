@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Upcoming Events"
+title:  "November Upcoming Events"
 date:   2017-11-08 10:15:00
-categories: meeting, events
 tags: featured
 ---
 

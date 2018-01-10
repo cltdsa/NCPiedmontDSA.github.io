@@ -2,7 +2,6 @@
 layout: post
 title:  "Monthly meeting reminder"
 date:   2017-08-28 13:55:00
-categories: meeting
 tags: featured
 ---
 
