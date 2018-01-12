@@ -7,7 +7,7 @@ date:   2018-01-08 11:32:00
 Here's a list of all the upcoming events (click title for details):
 
 We will be participating in the Charlotte MLK Jr Parade on Saturday, 01/13/18. 
-Meet on 10th street between Tryon and Church by 9:45 AM. 
+Meet on 10th street between Tryon and Church by 9:15 AM. 
 Parade starts at 10 AM and lasts until noon.
 
 Reading Group will be this Wednesday, 01/17/18, from 6 PM to 8 PM
